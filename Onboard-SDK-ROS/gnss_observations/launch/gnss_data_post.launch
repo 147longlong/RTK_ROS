@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<launch>
+
+  <param name="/use_sim_time" value="true"/>
+
+  <group ns="gnss_observations">
+    <arg name="ws_path" default="$(find gnss_observations)"/>
+    <arg name="opt_file" default="$(find gnss_observations)/config/rtkrcv_post.conf"/>
+
+    <node pkg="gnss_observations" type="gnss_data" name="gnss_data">
+    <!-- node parameters -->
+      <param name="ws_path" type="string" value="$(arg ws_path)"/>  
+      <param name="opt_file" type="string" value="$(arg opt_file)"/>  
+      <param name="post_proc" type="bool" value="true"/>  
+      <remap from="/gnss_observations/stream/0" to="/gnss/stream/0" />
+      <remap from="/gnss_observations/stream/1" to="/gnss/stream/1" />
+      <remap from="/gnss_observations/stream/2" to="/gnss/stream/2" />
+    </node>
+  </group>
+
+</launch>

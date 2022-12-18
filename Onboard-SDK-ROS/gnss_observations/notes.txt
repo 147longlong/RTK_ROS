@@ -1,0 +1,6 @@
+对于不同接收机不同频段的信号，需要修改如下内容：
+rtkcmn.c -> satwavelen()
+rtcm3.c  -> save_msm_obs()
+
+socat  -d  -d  PTY  PTY
+./str2str -in ntrip://Geespace07:PPPRTK1062021@222.188.82.25:8990/Test2 -out serial://pts/19:115200:8:n:1:off

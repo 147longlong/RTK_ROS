@@ -1,0 +1,117 @@
+[2021-07-14 19:37:58.279] [GeeSpace SDK] [info] skdy sdk start
+[2021-07-14 19:37:58.284] [GeeSpace SDK] [info] {"key":"DC1620268962000910","secret":"yc39HOPIuQ"}
+[2021-07-14 19:37:58.333] [GeeSpace SDK] [info] HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Wed, 14 Jul 2021 11:37:58 GMT
+
+028f
+{"access":{"success":true,"created":"2021-07-14 11:37:58","token":"f2cf21a6b85e4f937abc773f370bd0ec051519f901cc85f131093e13ee235ecf","username":"1"},"version":{"current":"44912772"},"available":{"precision":[{"identify":"PPP-RTK"}],"algorithm":[{"identify":"PPP-RTK-SDK"}]},"endpoint":[{"areaIdentify":1,"areaName":"阜宁数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":2,"areaName":"上海数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":3,"areaName":"阜宁数据中心-测试1","domain":"ssl://222.188.82.24:22261"},{"areaIdentify":4,"areaName":"阜宁数据中心-测试2","domain":"ssl://222.188.82.24:22262"}]}
+0
+
+
+[2021-07-14 19:37:58.550] [GeeSpace SDK] [info] skdy sdk start
+[2021-07-14 19:37:58.550] [GeeSpace SDK] [info] {"key":"DC1620268962000910","secret":"yc39HOPIuQ"}
+[2021-07-14 19:37:58.601] [GeeSpace SDK] [info] HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Wed, 14 Jul 2021 11:37:58 GMT
+
+028f
+{"access":{"success":true,"created":"2021-07-14 11:37:58","token":"aab8ea0c7eae7b0962b907db33f3e808fd8cb18baf31ea216e26073d4b2ff475","username":"1"},"version":{"current":"44912772"},"available":{"precision":[{"identify":"PPP-RTK"}],"algorithm":[{"identify":"PPP-RTK-SDK"}]},"endpoint":[{"areaIdentify":1,"areaName":"阜宁数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":2,"areaName":"上海数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":3,"areaName":"阜宁数据中心-测试1","domain":"ssl://222.188.82.24:22261"},{"areaIdentify":4,"areaName":"阜宁数据中心-测试2","domain":"ssl://222.188.82.24:22262"}]}
+0
+
+
+[2021-07-14 19:38:03.549] [GeeSpace SDK] [info] skdy sdk start
+[2021-07-14 19:38:03.549] [GeeSpace SDK] [info] {"key":"DC1620268962000910","secret":"yc39HOPIuQ"}
+[2021-07-14 19:38:03.581] [GeeSpace SDK] [info] HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Wed, 14 Jul 2021 11:38:03 GMT
+
+028f
+{"access":{"success":true,"created":"2021-07-14 11:38:03","token":"7f8ffc97394865cfe157d818bc46517e17ddff4dd1fe32d85acff900648a063f","username":"1"},"version":{"current":"44912772"},"available":{"precision":[{"identify":"PPP-RTK"}],"algorithm":[{"identify":"PPP-RTK-SDK"}]},"endpoint":[{"areaIdentify":1,"areaName":"阜宁数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":2,"areaName":"上海数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":3,"areaName":"阜宁数据中心-测试1","domain":"ssl://222.188.82.24:22261"},{"areaIdentify":4,"areaName":"阜宁数据中心-测试2","domain":"ssl://222.188.82.24:22262"}]}
+0
+
+
+[2021-07-15 22:16:30.731] [GeeSpace SDK] [info] skdy sdk start
+[2021-07-15 22:16:30.736] [GeeSpace SDK] [info] {"key":"DC1620268962000910","secret":"yc39HOPIuQ"}
+[2021-07-15 22:16:30.778] [GeeSpace SDK] [info] HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Thu, 15 Jul 2021 14:16:30 GMT
+
+028f
+{"access":{"success":true,"created":"2021-07-15 14:16:30","token":"59dfb96a53e1ffe9df75744e5edb95a41eaf9d0c11572a9513b3fd7851b5a44e","username":"1"},"version":{"current":"44912772"},"available":{"precision":[{"identify":"PPP-RTK"}],"algorithm":[{"identify":"PPP-RTK-SDK"}]},"endpoint":[{"areaIdentify":1,"areaName":"阜宁数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":2,"areaName":"上海数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":3,"areaName":"阜宁数据中心-测试1","domain":"ssl://222.188.82.24:22261"},{"areaIdentify":4,"areaName":"阜宁数据中心-测试2","domain":"ssl://222.188.82.24:22262"}]}
+0
+
+
+[2021-07-15 22:16:30.968] [GeeSpace SDK] [info] skdy sdk start
+[2021-07-15 22:16:30.968] [GeeSpace SDK] [info] {"key":"DC1620268962000910","secret":"yc39HOPIuQ"}
+[2021-07-15 22:16:31.015] [GeeSpace SDK] [info] HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Thu, 15 Jul 2021 14:16:30 GMT
+
+028f
+{"access":{"success":true,"created":"2021-07-15 14:16:30","token":"35d357c782eda14cacfa9e48e26d4aaab991c94de2b613c7c8af518d2fe63367","username":"1"},"version":{"current":"44912772"},"available":{"precision":[{"identify":"PPP-RTK"}],"algorithm":[{"identify":"PPP-RTK-SDK"}]},"endpoint":[{"areaIdentify":1,"areaName":"阜宁数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":2,"areaName":"上海数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":3,"areaName":"阜宁数据中心-测试1","domain":"ssl://222.188.82.24:22261"},{"areaIdentify":4,"areaName":"阜宁数据中心-测试2","domain":"ssl://222.188.82.24:22262"}]}
+0
+
+
+[2021-07-15 22:16:35.963] [GeeSpace SDK] [info] skdy sdk start
+[2021-07-15 22:16:35.963] [GeeSpace SDK] [info] {"key":"DC1620268962000910","secret":"yc39HOPIuQ"}
+[2021-07-15 22:16:36.010] [GeeSpace SDK] [info] HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Thu, 15 Jul 2021 14:16:35 GMT
+
+028f
+{"access":{"success":true,"created":"2021-07-15 14:16:35","token":"d2e7d481c8f138d91c220c5d4b524ec713ac7d72f83090879e4896c8a4d2445d","username":"1"},"version":{"current":"44912772"},"available":{"precision":[{"identify":"PPP-RTK"}],"algorithm":[{"identify":"PPP-RTK-SDK"}]},"endpoint":[{"areaIdentify":1,"areaName":"阜宁数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":2,"areaName":"上海数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":3,"areaName":"阜宁数据中心-测试1","domain":"ssl://222.188.82.24:22261"},{"areaIdentify":4,"areaName":"阜宁数据中心-测试2","domain":"ssl://222.188.82.24:22262"}]}
+0
+
+
+[2021-07-15 22:16:40.963] [GeeSpace SDK] [info] skdy sdk start
+[2021-07-15 22:16:40.963] [GeeSpace SDK] [info] {"key":"DC1620268962000910","secret":"yc39HOPIuQ"}
+[2021-07-15 22:16:41.007] [GeeSpace SDK] [info] HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Thu, 15 Jul 2021 14:16:40 GMT
+
+028f
+{"access":{"success":true,"created":"2021-07-15 14:16:40","token":"df614cb92984cba3d4b9cf45a70728459d14ee1bd7988ed9117d6e4564d00630","username":"1"},"version":{"current":"44912772"},"available":{"precision":[{"identify":"PPP-RTK"}],"algorithm":[{"identify":"PPP-RTK-SDK"}]},"endpoint":[{"areaIdentify":1,"areaName":"阜宁数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":2,"areaName":"上海数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":3,"areaName":"阜宁数据中心-测试1","domain":"ssl://222.188.82.24:22261"},{"areaIdentify":4,"areaName":"阜宁数据中心-测试2","domain":"ssl://222.188.82.24:22262"}]}
+0
+
+
+[2021-07-15 22:16:45.963] [GeeSpace SDK] [info] skdy sdk start
+[2021-07-15 22:16:45.963] [GeeSpace SDK] [info] {"key":"DC1620268962000910","secret":"yc39HOPIuQ"}
+[2021-07-15 22:16:46.023] [GeeSpace SDK] [info] HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Thu, 15 Jul 2021 14:16:46 GMT
+
+028f
+{"access":{"success":true,"created":"2021-07-15 14:16:45","token":"544b221053f978bd9f60e11904fa8b5f42fa08c109f4aeb849ea9937191e5e41","username":"1"},"version":{"current":"44912772"},"available":{"precision":[{"identify":"PPP-RTK"}],"algorithm":[{"identify":"PPP-RTK-SDK"}]},"endpoint":[{"areaIdentify":1,"areaName":"阜宁数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":2,"areaName":"上海数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":3,"areaName":"阜宁数据中心-测试1","domain":"ssl://222.188.82.24:22261"},{"areaIdentify":4,"areaName":"阜宁数据中心-测试2","domain":"ssl://222.188.82.24:22262"}]}
+0
+
+
+[2021-07-15 22:17:55.386] [GeeSpace SDK] [info] skdy sdk start
+[2021-07-15 22:17:55.386] [GeeSpace SDK] [info] {"key":"DC1620268962000910","secret":"yc39HOPIuQ"}
+[2021-07-15 22:17:55.426] [GeeSpace SDK] [info] HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Thu, 15 Jul 2021 14:17:55 GMT
+
+028f
+{"access":{"success":true,"created":"2021-07-15 14:17:55","token":"1caaf5f87c2b622d0e88a99eff5be345a1f978918ef6f842f3a5c70f66141bec","username":"1"},"version":{"current":"44912772"},"available":{"precision":[{"identify":"PPP-RTK"}],"algorithm":[{"identify":"PPP-RTK-SDK"}]},"endpoint":[{"areaIdentify":1,"areaName":"阜宁数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":2,"areaName":"上海数据中心","domain":"ssl://222.188.82.24:11883"},{"areaIdentify":3,"areaName":"阜宁数据中心-测试1","domain":"ssl://222.188.82.24:22261"},{"areaIdentify":4,"areaName":"阜宁数据中心-测试2","domain":"ssl://222.188.82.24:22262"}]}
+0
+
+

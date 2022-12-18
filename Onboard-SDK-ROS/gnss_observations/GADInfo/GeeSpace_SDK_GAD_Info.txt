@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Wed, 14 Jul 2021 11:37:58 GMT
+
+0443
+{"version":"44912772","areas-count":7,"areas":[{"identify":1,"latitude":32.0,"longitude":119.5,"latitude-spacing":0.5,"longitude-spacing":0.5,"latitude-count":4,"longitude-count":6,"available":1},{"identify":2,"latitude":37.7,"longitude":114.7,"latitude-spacing":1.0,"longitude-spacing":1.0,"latitude-count":5,"longitude-count":7,"available":1},{"identify":3,"latitude":31.4,"longitude":113.6,"latitude-spacing":0.5,"longitude-spacing":0.5,"latitude-count":4,"longitude-count":4,"available":1},{"identify":4,"latitude":24.8,"longitude":111.5,"latitude-spacing":0.5,"longitude-spacing":0.5,"latitude-count":7,"longitude-count":9,"available":1},{"identify":5,"latitude":41.7,"longitude":113.8,"latitude-spacing":1.0,"longitude-spacing":1.0,"latitude-count":5,"longitude-count":7,"available":1},{"identify":6,"latitude":30.5,"longitude":119.1,"latitude-spacing":0.5,"longitude-spacing":0.5,"latitude-count":7,"longitude-count":7,"available":1},{"identify":7,"latitude":31.8,"longitude":102.9,"latitude-spacing":0.5,"longitude-spacing":0.5,"latitude-count":6,"longitude-count":7,"available":1}]}
+0
+

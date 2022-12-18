@@ -1,0 +1,14 @@
+string prn
+float64[] lam
+float64[] P
+float64[] L
+float64[] D
+float64[] SNR
+int8[] LLI
+int8 eph_type
+float64[6] satpos
+float64[2] satclk
+string[] code_type
+float64[] code_bias
+float64[] phase_bias
+float64 ion
