@@ -15,6 +15,8 @@ or use below GUI after installing
 Then give the serial port the permission
 
 	sudo chmod 666 /dev/ttyUSB(0) 
+	
+Or we need bound the name of USB serial port,please refer https://blog.csdn.net/weixin_40639095/article/details/108490329 
 
 3.Modify the catkin_ws/src/Onboard-SDK-ROS/gnss_observations/src/config/rtkrcv.conf 
 
